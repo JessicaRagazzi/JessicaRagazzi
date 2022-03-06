@@ -1,7 +1,7 @@
 ### Olá, mundo! 👋 Eu sou a Jéssica Ragazzi ✌️
 
 - ⏳ Desenvolvedora em processo de formação... 
-- 📚 Veja o que estou estudando:
+- 📚 Estudando
 
 <div align="center">
   <a href="https://github.com/JessicaRagazzi">
