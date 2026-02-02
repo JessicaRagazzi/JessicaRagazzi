@@ -1,7 +1,14 @@
-### Olá, mundo! 👋 Eu sou a Jéssica Ragazzi ✌️
+### Hello, world! 👋 I'm Jéssica Ragazzi ✌️
 
-- ⏳ Desenvolvedora em processo de formação... 
-- 📚 Estudando
+Full Stack Developer with experience in financial products and whitelabel platforms.
+Currently working at Quave, building scalable and user-centered solutions.
+
+🛠 Tech stack:
+- Frontend: React, Angular, Tailwind CSS
+- Backend: Meteor.js, Node.js, Java, Spring
+- Databases: MongoDB
+- Cloud: AWS (Cloud Practitioner)
+- Tests: Jest, Mocha
 
 <div align="center"> 
 
